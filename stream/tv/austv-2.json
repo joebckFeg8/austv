@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/seven-per.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Channel 7 (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/seven-syd.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Channel 7 (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/seven-mel.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Channel 7 (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/seven-bri.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Channel 7 (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/seven-ade.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Channel 7 (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

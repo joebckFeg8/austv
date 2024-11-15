@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-20",
+    "type": "tv",
+    "name": "SBS Food",
+    "description": "SBS Food is an Australian television channel dedicated to all things culinary, celebrating diverse cuisines and cooking styles from around the world. As part of the SBS network, the channel features a mix of cooking shows, food documentaries, and travel programs that highlight the cultural significance of food. With a focus on inclusivity and exploration, SBS Food invites viewers to discover new flavors, recipes, and cooking techniques, making it a delightful destination for food enthusiasts and home cooks alike.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsfood.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-hz-au.png",
+    "tvgId": "sbsfood.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/sbs-food.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "SBS Food",
+        "name": "HD"
+      }
+    ]
+  }
+}

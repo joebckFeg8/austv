@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-7",
+    "type": "tv",
+    "name": "7two",
+    "description": "7two is an Australian television channel that offers a diverse range of entertainment, including classic series, family-friendly movies, and lifestyle programming. As a part of the Seven Network, 7two focuses on providing accessible content that appeals to a broad audience, featuring popular comedies, dramas, and reality shows. The channel aims to create a relaxed viewing experience, making it a go-to destination for those seeking enjoyable and light-hearted entertainment.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7two.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7two-au.png",
+    "tvgId": "7two.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/7two-per.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7two (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7two-syd.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7two (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7two-mel.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7two (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7two-bri.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7two (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7two-ade.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7two (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

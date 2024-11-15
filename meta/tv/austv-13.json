@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-13",
+    "type": "tv",
+    "name": "9Life",
+    "description": "9Life is an Australian television channel dedicated to lifestyle programming, featuring a variety of engaging content focused on home improvement, cooking, travel, and reality shows. As part of the Nine Network, 9Life showcases popular series and documentaries that inspire viewers to enhance their daily lives and explore new ideas. With an emphasis on practical tips and entertaining storytelling, 9Life is a go-to destination for those seeking inspiration and enjoyment in the realms of lifestyle and leisure.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9life.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-life-au.png",
+    "tvgId": "9Life.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/life-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Life (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/life-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Life (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/life-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Life (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/life-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Life (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/life-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Life (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

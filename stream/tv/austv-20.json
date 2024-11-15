@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/sbs-food.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "SBS Food",
+      "name": "HD"
+    }
+  ]
+}

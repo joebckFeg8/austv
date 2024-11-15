@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/7two-per.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7two (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7two-syd.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7two (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7two-mel.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7two (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7two-bri.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7two (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7two-ade.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7two (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

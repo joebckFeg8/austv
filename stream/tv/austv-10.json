@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/7flix-per.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7flix (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7flix (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7flix-mel.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7flix (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7flix-bri.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7flix (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7flix-ade.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7flix (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

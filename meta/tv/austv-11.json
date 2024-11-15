@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-11",
+    "type": "tv",
+    "name": "9Gem",
+    "description": "9Gem is an Australian television channel that offers a diverse selection of entertaining programming, focusing on classic films, popular series, and lifestyle shows. As part of the Nine Network, 9Gem is known for its family-friendly content, featuring a mix of drama, comedy, and reality programs that appeal to a wide audience. The channel provides viewers with engaging entertainment options, making it a great choice for those seeking a blend of nostalgia and contemporary storytelling.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9gem.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-gem-au.png",
+    "tvgId": "9Gem.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/gem-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Gem (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/gem-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Gem (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/gem-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Gem (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/gem-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Gem (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/gem-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Gem (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

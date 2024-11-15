@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-5",
+    "type": "tv",
+    "name": "SBS",
+    "description": "SBS is Australia’s multicultural and multilingual television channel, dedicated to promoting diversity and inclusion. Known for its unique programming, SBS offers a rich mix of documentaries, foreign films, and original series that celebrate different cultures and perspectives. The channel also features news and current affairs content from around the world, providing audiences with a global outlook. With a commitment to storytelling that reflects Australia’s multicultural society, SBS plays a vital role in fostering understanding and appreciation of diverse communities.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsmain.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png",
+    "tvgId": "sbs.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/sbs.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "SBS",
+        "name": "HD"
+      }
+    ]
+  }
+}

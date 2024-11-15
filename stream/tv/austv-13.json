@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/life-wa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Life (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/life-nsw.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Life (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/life-vic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Life (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/life-qld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Life (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/life-sa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Life (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

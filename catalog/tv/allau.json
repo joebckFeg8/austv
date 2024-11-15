@@ -1,0 +1,860 @@
+{
+  "metas": [
+    {
+      "id": "austv-1",
+      "type": "tv",
+      "name": "ABC TV",
+      "description": "ABC (Australian Broadcasting Corporation) is Australia’s national public broadcaster, known for its diverse and high-quality programming. Offering a mix of news, current affairs, documentaries, dramas, and children’s shows, ABC is committed to delivering informative and entertaining content for all ages. As a trusted source of information, it plays a vital role in reflecting Australian culture and promoting local talent.",
+      "genres": [
+        "Main"
+      ],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/abctvmain.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-hz-au.png",
+      "tvgId": "abctv.au",
+      "streams": [
+        {
+          "url": "https://c.mjh.nz/abc-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "ABC TV (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://c.mjh.nz/abc-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "ABC TV (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://c.mjh.nz/abc-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "ABC TV (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://c.mjh.nz/abc-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "ABC TV (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://c.mjh.nz/abc-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "ABC TV (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-2",
+      "type": "tv",
+      "name": "Channel 7",
+      "description": "The Seven Network is a leading Australian television channel that delivers a wide array of entertainment, including hit dramas, engaging comedies, and major sporting events. Renowned for its commitment to quality programming, Seven offers family-friendly content alongside trusted news coverage, making it a favorite choice for viewers across the country.",
+      "genres": [
+        "Main"
+      ],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7main.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/seven-au.png",
+      "tvgId": "7.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/seven-per.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Channel 7 (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/seven-syd.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Channel 7 (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/seven-mel.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Channel 7 (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/seven-bri.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Channel 7 (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/seven-ade.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Channel 7 (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-3",
+      "type": "tv",
+      "name": "Nine Network",
+      "description": "Nine Network is a prominent Australian television channel offering a diverse range of entertainment options. Known for its popular dramas, reality shows, and sporting events, Channel Nine caters to a wide audience. The channel also features trusted news programs and current affairs content, making it a key player in Australian broadcasting. With a focus on engaging storytelling and live events, Channel Nine remains a favorite choice for viewers across the country.",
+      "genres": [
+        "Main"
+      ],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9main.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-au.png",
+      "tvgId": "9.au",
+      "streams": [
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nine Network (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nine Network (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nine Network (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nine Network (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nine Network (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-4",
+      "type": "tv",
+      "name": "Network 10",
+      "description": "Network 10 is a dynamic Australian television channel that offers a variety of engaging programming. Known for its entertaining reality shows, popular dramas, and innovative comedies, Channel 10 appeals to a diverse audience. The channel also features trusted news and current affairs content, keeping viewers informed about local and international events. With a commitment to showcasing fresh talent and unique storytelling, Channel 10 continues to be a significant player in Australia’s broadcasting landscape.",
+      "genres": [
+        "Main"
+      ],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10main.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/network-10-au.png",
+      "tvgId": "10.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Network 10 (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Network 10 (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Network 10 (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Network 10 (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Network 10 (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-5",
+      "type": "tv",
+      "name": "SBS",
+      "description": "SBS is Australia’s multicultural and multilingual television channel, dedicated to promoting diversity and inclusion. Known for its unique programming, SBS offers a rich mix of documentaries, foreign films, and original series that celebrate different cultures and perspectives. The channel also features news and current affairs content from around the world, providing audiences with a global outlook. With a commitment to storytelling that reflects Australia’s multicultural society, SBS plays a vital role in fostering understanding and appreciation of diverse communities.",
+      "genres": ["Main"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsmain.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png",
+      "tvgId": "sbs.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "SBS",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-7",
+      "type": "tv",
+      "name": "7two",
+      "description": "7two is an Australian television channel that offers a diverse range of entertainment, including classic series, family-friendly movies, and lifestyle programming. As a part of the Seven Network, 7two focuses on providing accessible content that appeals to a broad audience, featuring popular comedies, dramas, and reality shows. The channel aims to create a relaxed viewing experience, making it a go-to destination for those seeking enjoyable and light-hearted entertainment.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7two.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7two-au.png",
+      "tvgId": "7two.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7two-per.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7two (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7two-syd.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7two (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7two-mel.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7two (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7two-bri.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7two (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7two-ade.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7two (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-8",
+      "type": "tv",
+      "name": "7mate",
+      "description": "7mate is an Australian television channel that caters to a male audience with a focus on entertainment, lifestyle, and sports programming. As part of the Seven Network, 7mate features a mix of popular series, reality shows, and sports events, including action-packed documentaries and blockbuster movies. The channel is known for its fun and irreverent approach, making it a go-to destination for viewers seeking engaging content that celebrates adventure, humor, and a laid-back lifestyle.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7mate.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7mate-au.png",
+      "tvgId": "7mate.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7mate-per.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7mate (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7mate (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7mate-mel.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7mate (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7mate-bri.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7mate (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7mate-ade.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7mate (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-9",
+      "type": "tv",
+      "name": "7Bravo",
+      "description": "7Bravo is an Australian television channel that offers a diverse array of reality programming, lifestyle shows, and engaging documentaries. As part of the Seven Network, 7Bravo features popular international series alongside original content that appeals to a wide audience. The channel is known for its entertaining and often light-hearted approach, focusing on real-life stories, home improvement, and adventure, making it a great choice for viewers seeking relatable and engaging entertainment.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7bravoau.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7bravo-au.png",
+      "tvgId": "7bravo.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7bravo-FAST.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7bravo",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-10",
+      "type": "tv",
+      "name": "7flix",
+      "description": "7flix is an Australian television channel dedicated to delivering a wide variety of movies and popular series. As part of the Seven Network, 7flix features a mix of blockbuster films, beloved classics, and engaging TV dramas, catering to a family-friendly audience. The channel is known for its entertaining movie nights and themed programming, providing viewers with a relaxed and enjoyable viewing experience that appeals to all ages. Whether it's action, romance, or comedy, 7flix offers something for everyone.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7flix.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7flix-au.png",
+      "tvgId": "7flix.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7flix-per.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7flix (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7flix (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7flix-mel.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7flix (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7flix-bri.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7flix (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/7flix-ade.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "7flix (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-11",
+      "type": "tv",
+      "name": "9Gem",
+      "description": "9Gem is an Australian television channel that offers a diverse selection of entertaining programming, focusing on classic films, popular series, and lifestyle shows. As part of the Nine Network, 9Gem is known for its family-friendly content, featuring a mix of drama, comedy, and reality programs that appeal to a wide audience. The channel provides viewers with engaging entertainment options, making it a great choice for those seeking a blend of nostalgia and contemporary storytelling.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9gem.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-gem-au.png",
+      "tvgId": "9gem.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/gem-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Gem (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/gem-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Gem (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/gem-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Gem (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/gem-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Gem (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/gem-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Gem (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-12",
+      "type": "tv",
+      "name": "9Go!",
+      "description": "9Go! is an Australian television channel aimed at younger audiences, featuring a fun mix of animated series, live-action shows, and family-friendly movies. As part of the Nine Network, 9Go! offers popular children's programming and entertainment that appeals to kids and tweens, fostering creativity and imagination. With a focus on engaging content and relatable characters, 9Go! provides a vibrant and entertaining viewing experience for the whole family.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9go.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-go-au.png",
+      "tvgId": "9go.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/go-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Go! (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/go-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Go! (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/go-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Go! (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/go-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Go! (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/go-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Go! (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-13",
+      "type": "tv",
+      "name": "9Life",
+      "description": "9Life is an Australian television channel dedicated to lifestyle programming, featuring a variety of engaging content focused on home improvement, cooking, travel, and reality shows. As part of the Nine Network, 9Life showcases popular series and documentaries that inspire viewers to enhance their daily lives and explore new ideas. With an emphasis on practical tips and entertaining storytelling, 9Life is a go-to destination for those seeking inspiration and enjoyment in the realms of lifestyle and leisure.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9life.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-life-au.png",
+      "tvgId": "9life.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/life-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Life (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/life-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Life (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/life-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Life (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/life-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Life (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/life-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Life (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-14",
+      "type": "tv",
+      "name": "9Rush",
+      "description": "9Rush is an Australian television channel that caters to fans of adrenaline-fueled programming, focusing on adventure, action, and reality shows. As part of the Nine Network, 9Rush features a mix of extreme sports, thrill-seeking documentaries, and entertaining series that celebrate high-energy pursuits. The channel is designed for viewers who crave excitement and are looking for engaging content that showcases daring adventures and dynamic storytelling, making it a go-to destination for those with a passion for the extraordinary.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9rush.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-rush-au.png",
+      "tvgId": "9rush.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/rush-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Rush (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/rush-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Rush (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/rush-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Rush (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/rush-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Rush (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/rush-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "9Rush (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-15",
+      "type": "tv",
+      "name": "10 Peach",
+      "description": "10 Peach is an Australian television channel that offers a vibrant mix of entertaining lifestyle and reality programming, focusing on food, home, and wellness. As part of the Nine Network, Peach features a variety of shows that celebrate cooking, home improvement, and personal stories, appealing to viewers looking for inspiration in their everyday lives. With an emphasis on relatable content and feel-good storytelling, Peach is designed to entertain and engage audiences seeking a refreshing and uplifting viewing experience.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10peach.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-peach-comedy-au.png",
+      "tvgId": "10peach.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10peach-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Peach (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10peach-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Peach (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10peach-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Peach (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10peach-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Peach (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10peach-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Peach (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-16",
+      "type": "tv",
+      "name": "10 Bold",
+      "description": "10 Bold is an Australian television channel that caters to audiences looking for bold and exciting programming, featuring a mix of gripping dramas, thrilling reality shows, and blockbuster movies. As part of Network Ten, 10 Bold showcases popular international series and captivating content designed to entertain and engage viewers seeking dynamic storytelling and action-packed entertainment. With its diverse lineup, 10 Bold is a go-to destination for those who enjoy high-energy and compelling viewing experiences.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10bold.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-bold-drama-au.png",
+      "tvgId": "10bold.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10bold-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Bold (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10bold-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Bold (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10bold-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Bold (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10bold-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Bold (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10bold-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "10 Bold (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-19",
+      "type": "tv",
+      "name": "Nickelodeon Australia",
+      "description": "Nickelodeon Australia is a vibrant television channel dedicated to entertaining children and tweens with a mix of animated series, live-action shows, and engaging movies. Known for its fun and imaginative programming, Nickelodeon features beloved characters and popular franchises that inspire creativity and laughter. The channel also includes a variety of interactive content and specials, making it a favorite destination for young viewers seeking enjoyable and relatable entertainment that reflects their interests and adventures.",
+      "genres": ["Kids"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/nickelodeonau.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png",
+      "tvgId": "nickelodeon.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10shake-wa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nickelodeon (Perth)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nickelodeon (Sydney)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10shake-vic.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nickelodeon (Melbourne)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10shake-qld.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nickelodeon (Brisbane)",
+          "name": "HD"
+        },
+        {
+          "url": "https://i.mjh.nz/.r/10shake-sa.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "Nickelodeon (Adelaide)",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-20",
+      "type": "tv",
+      "name": "SBS Food",
+      "description": "SBS Food is an Australian television channel dedicated to all things culinary, celebrating diverse cuisines and cooking styles from around the world. As part of the SBS network, the channel features a mix of cooking shows, food documentaries, and travel programs that highlight the cultural significance of food. With a focus on inclusivity and exploration, SBS Food invites viewers to discover new flavors, recipes, and cooking techniques, making it a delightful destination for food enthusiasts and home cooks alike.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsfood.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-hz-au.png",
+      "tvgId": "sbsfood.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-food.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "SBS Food",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-21",
+      "type": "tv",
+      "name": "SBS Viceland",
+      "description": "SBS Viceland is an Australian television channel that offers a bold and diverse range of programming focused on culture, lifestyle, and contemporary issues. Featuring documentaries, reality shows, and original series, SBS Viceland explores unique perspectives and stories from around the world, catering to a younger audience with a curiosity for global trends and experiences. With an emphasis on authenticity and thought-provoking content, the channel provides viewers with engaging and informative entertainment that sparks discussion and fosters understanding of different cultures.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsviceland.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-viceland-au.png",
+      "tvgId": "sbsviceland.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-viceland.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "SBS Viceland",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-22",
+      "type": "tv",
+      "name": "SBS World Movies",
+      "description": "SBS World Movies is an Australian television channel dedicated to showcasing a rich selection of international films from various genres and cultures. As part of the SBS network, the channel features critically acclaimed movies, hidden gems, and award-winning films, providing viewers with a diverse cinematic experience. With a focus on promoting global storytelling and fostering cultural appreciation, SBS World Movies offers a platform for audiences to discover new voices and perspectives in cinema, making it a must-watch for film enthusiasts.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsworld.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movies-hz-au.png",
+      "tvgId": "sbsworld.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-world-movies.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "SBS World Movies",
+          "name": "HD"
+        }
+      ]
+    },
+    {
+      "id": "austv-23",
+      "type": "tv",
+      "name": "NITV",
+      "description": "NITV (National Indigenous Television) is an Australian television channel dedicated to showcasing Indigenous culture, stories, and perspectives. As part of the SBS network, NITV features a diverse range of programming, including documentaries, dramas, and lifestyle shows that highlight the richness of Aboriginal and Torres Strait Islander communities. The channel aims to promote understanding and appreciation of Indigenous cultures while providing a platform for Indigenous voices and storytelling, making it an essential resource for cultural education and representation in Australia.",
+      "genres": ["Secondary"],
+      "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/nitv.jpg",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png",
+      "tvgId": "nitv.au",
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-nitv.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "description": "NITV",
+          "name": "HD"
+        }
+      ]
+    }
+  ]
+}

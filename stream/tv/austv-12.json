@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/go-wa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Go! (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/go-nsw.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Go! (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/go-vic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Go! (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/go-qld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Go! (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/go-sa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "9Go! (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

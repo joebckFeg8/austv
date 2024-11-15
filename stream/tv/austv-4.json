@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/10-wa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Network 10 (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10-nsw.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Network 10 (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10-vic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Network 10 (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10-qld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Network 10 (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10-sa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Network 10 (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

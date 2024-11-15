@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-8",
+    "type": "tv",
+    "name": "7mate",
+    "description": "7mate is an Australian television channel that caters to a male audience with a focus on entertainment, lifestyle, and sports programming. As part of the Seven Network, 7mate features a mix of popular series, reality shows, and sports events, including action-packed documentaries and blockbuster movies. The channel is known for its fun and irreverent approach, making it a go-to destination for viewers seeking engaging content that celebrates adventure, humor, and a laid-back lifestyle.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7mate.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7mate-au.png",
+    "tvgId": "7mate.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/7mate-per.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7mate (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7mate (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7mate-mel.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7mate (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7mate-bri.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7mate (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7mate-ade.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7mate (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

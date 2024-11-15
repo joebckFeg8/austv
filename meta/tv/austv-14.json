@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-14",
+    "type": "tv",
+    "name": "9Rush",
+    "description": "9Rush is an Australian television channel that caters to fans of adrenaline-fueled programming, focusing on adventure, action, and reality shows. As part of the Nine Network, 9Rush features a mix of extreme sports, thrill-seeking documentaries, and entertaining series that celebrate high-energy pursuits. The channel is designed for viewers who crave excitement and are looking for engaging content that showcases daring adventures and dynamic storytelling, making it a go-to destination for those with a passion for the extraordinary.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9rush.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-rush-au.png",
+    "tvgId": "9Rush.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/rush-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Rush (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/rush-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Rush (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/rush-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Rush (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/rush-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Rush (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/rush-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "9Rush (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-10",
+    "type": "tv",
+    "name": "7flix",
+    "description": "7flix is an Australian television channel dedicated to delivering a wide variety of movies and popular series. As part of the Seven Network, 7flix features a mix of blockbuster films, beloved classics, and engaging TV dramas, catering to a family-friendly audience. The channel is known for its entertaining movie nights and themed programming, providing viewers with a relaxed and enjoyable viewing experience that appeals to all ages. Whether it's action, romance, or comedy, 7flix offers something for everyone.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7flix.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7flix-au.png",
+    "tvgId": "7flix.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/7flix-per.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7flix (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7flix (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7flix-mel.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7flix (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7flix-bri.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7flix (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/7flix-ade.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7flix (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

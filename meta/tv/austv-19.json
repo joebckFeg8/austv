@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-19",
+    "type": "tv",
+    "name": "Nickelodeon Australia",
+    "description": "Nickelodeon Australia is a vibrant television channel dedicated to entertaining children and tweens with a mix of animated series, live-action shows, and engaging movies. Known for its fun and imaginative programming, Nickelodeon features beloved characters and popular franchises that inspire creativity and laughter. The channel also includes a variety of interactive content and specials, making it a favorite destination for young viewers seeking enjoyable and relatable entertainment that reflects their interests and adventures.",
+    "genres": ["Kids"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/nickelodeonau.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png",
+    "tvgId": "nickelodeon.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/10shake-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nickelodeon (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nickelodeon (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10shake-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nickelodeon (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10shake-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nickelodeon (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10shake-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nickelodeon (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

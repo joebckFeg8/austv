@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/7mate-per.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7mate (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7mate (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7mate-mel.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7mate (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7mate-bri.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7mate (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/7mate-ade.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "7mate (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

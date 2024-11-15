@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-23",
+    "type": "tv",
+    "name": "NITV",
+    "description": "NITV (National Indigenous Television) is an Australian television channel dedicated to showcasing Indigenous culture, stories, and perspectives. As part of the SBS network, NITV features a diverse range of programming, including documentaries, dramas, and lifestyle shows that highlight the richness of Aboriginal and Torres Strait Islander communities. The channel aims to promote understanding and appreciation of Indigenous cultures while providing a platform for Indigenous voices and storytelling, making it an essential resource for cultural education and representation in Australia.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/nitv.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png",
+    "tvgId": "nitv.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/sbs-nitv.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "NITV",
+        "name": "HD"
+      }
+    ]
+  }
+}

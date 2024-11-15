@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-3",
+    "type": "tv",
+    "name": "Nine Network",
+    "description": "Nine Network is a prominent Australian television channel offering a diverse range of entertainment options. Known for its popular dramas, reality shows, and sporting events, Channel Nine caters to a wide audience. The channel also features trusted news programs and current affairs content, making it a key player in Australian broadcasting. With a focus on engaging storytelling and live events, Channel Nine remains a favorite choice for viewers across the country.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/9main.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-au.png",
+    "tvgId": "9.au",
+    "streams": [
+      {
+        "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nine Network (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nine Network (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nine Network (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nine Network (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Nine Network (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

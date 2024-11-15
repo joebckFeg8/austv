@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://i.mjh.nz/.r/10shake-wa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nickelodeon (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nickelodeon (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10shake-vic.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nickelodeon (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10shake-qld.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nickelodeon (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://i.mjh.nz/.r/10shake-sa.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nickelodeon (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

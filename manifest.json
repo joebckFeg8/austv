@@ -1,0 +1,25 @@
+{
+  "id": "community.austv",
+  "version": "1.0.2",
+  "catalogs": [
+    {
+      "name": "AUS TV",
+      "type": "tv",
+      "id": "allau"
+    }
+  ],
+  "resources": [
+    "catalog",
+    "stream",
+    "meta"
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "austv"
+  ],
+  "name": "AUS TV",
+  "description": "AUS TV provides access to Australian free-to-air channels.",
+  "logo": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/public/au-logo.png"
+}

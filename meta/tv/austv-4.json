@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-4",
+    "type": "tv",
+    "name": "Network 10",
+    "description": "Network 10 is a dynamic Australian television channel that offers a variety of engaging programming. Known for its entertaining reality shows, popular dramas, and innovative comedies, Channel 10 appeals to a diverse audience. The channel also features trusted news and current affairs content, keeping viewers informed about local and international events. With a commitment to showcasing fresh talent and unique storytelling, Channel 10 continues to be a significant player in Australia’s broadcasting landscape.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10main.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/network-10-au.png",
+    "tvgId": "10.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/10-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Network 10 (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Network 10 (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Network 10 (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Network 10 (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "Network 10 (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

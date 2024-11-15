@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-21",
+    "type": "tv",
+    "name": "SBS Viceland",
+    "description": "SBS Viceland is an Australian television channel that offers a bold and diverse range of programming focused on culture, lifestyle, and contemporary issues. Featuring documentaries, reality shows, and original series, SBS Viceland explores unique perspectives and stories from around the world, catering to a younger audience with a curiosity for global trends and experiences. With an emphasis on authenticity and thought-provoking content, the channel provides viewers with engaging and informative entertainment that sparks discussion and fosters understanding of different cultures.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsviceland.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-viceland-au.png",
+    "tvgId": "sbsviceland.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/sbs-viceland.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "SBS Viceland",
+        "name": "HD"
+      }
+    ]
+  }
+}

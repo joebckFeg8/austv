@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-16",
+    "type": "tv",
+    "name": "10 Bold",
+    "description": "10 Bold is an Australian television channel that caters to audiences looking for bold and exciting programming, featuring a mix of gripping dramas, thrilling reality shows, and blockbuster movies. As part of Network Ten, 10 Bold showcases popular international series and captivating content designed to entertain and engage viewers seeking dynamic storytelling and action-packed entertainment. With its diverse lineup, 10 Bold is a go-to destination for those who enjoy high-energy and compelling viewing experiences.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10bold.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-bold-drama-au.png",
+    "tvgId": "10bold.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/10bold-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Bold (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10bold-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Bold (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10bold-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Bold (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10bold-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Bold (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10bold-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Bold (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

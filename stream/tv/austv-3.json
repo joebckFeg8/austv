@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nine Network (Perth)",
+      "name": "HD"
+    },
+    {
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nine Network (Sydney)",
+      "name": "HD"
+    },
+    {
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nine Network (Melbourne)",
+      "name": "HD"
+    },
+    {
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nine Network (Brisbane)",
+      "name": "HD"
+    },
+    {
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "Nine Network (Adelaide)",
+      "name": "HD"
+    }
+  ]
+}

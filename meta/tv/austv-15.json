@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-15",
+    "type": "tv",
+    "name": "10 Peach",
+    "description": "10 Peach is an Australian television channel that offers a vibrant mix of entertaining lifestyle and reality programming, focusing on food, home, and wellness. As part of the Nine Network, Peach features a variety of shows that celebrate cooking, home improvement, and personal stories, appealing to viewers looking for inspiration in their everyday lives. With an emphasis on relatable content and feel-good storytelling, Peach is designed to entertain and engage audiences seeking a refreshing and uplifting viewing experience.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/10peach.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/10-peach-comedy-au.png",
+    "tvgId": "10peach.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/10peach-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Peach (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10peach-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Peach (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10peach-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Peach (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10peach-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Peach (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://i.mjh.nz/.r/10peach-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "10 Peach (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

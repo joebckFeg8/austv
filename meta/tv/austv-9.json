@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-9",
+    "type": "tv",
+    "name": "7Bravo",
+    "description": "7Bravo is an Australian television channel that offers a diverse array of reality programming, lifestyle shows, and engaging documentaries. As part of the Seven Network, 7Bravo features popular international series alongside original content that appeals to a wide audience. The channel is known for its entertaining and often light-hearted approach, focusing on real-life stories, home improvement, and adventure, making it a great choice for viewers seeking relatable and engaging entertainment.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/7bravoau.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/7bravo-au.png",
+    "tvgId": "7bravo.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/7bravo-FAST.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "7Bravo",
+        "name": "HD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "austv-1",
+    "type": "tv",
+    "name": "ABC TV",
+    "description": "ABC (Australian Broadcasting Corporation) is Australia’s national public broadcaster, known for its diverse and high-quality programming. Offering a mix of news, current affairs, documentaries, dramas, and children’s shows, ABC is committed to delivering informative and entertaining content for all ages. As a trusted source of information, it plays a vital role in reflecting Australian culture and promoting local talent.",
+    "genres": ["Main"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/abctvmain.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-hz-au.png",
+    "tvgId": "abctv.au",
+    "streams": [
+      {
+        "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "ABC TV (Perth)",
+        "name": "HD"
+      },
+      {
+        "url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "ABC TV (Sydney)",
+        "name": "HD"
+      },
+      {
+        "url": "https://c.mjh.nz/abc-vic.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "ABC TV (Melbourne)",
+        "name": "HD"
+      },
+      {
+        "url": "https://c.mjh.nz/abc-qld.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "ABC TV (Brisbane)",
+        "name": "HD"
+      },
+      {
+        "url": "https://c.mjh.nz/abc-sa.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "ABC TV (Adelaide)",
+        "name": "HD"
+      }
+    ]
+  }
+}

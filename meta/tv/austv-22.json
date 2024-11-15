@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "austv-22",
+    "type": "tv",
+    "name": "SBS World Movies",
+    "description": "SBS World Movies is an Australian television channel dedicated to showcasing a rich selection of international films from various genres and cultures. As part of the SBS network, the channel features critically acclaimed movies, hidden gems, and award-winning films, providing viewers with a diverse cinematic experience. With a focus on promoting global storytelling and fostering cultural appreciation, SBS World Movies offers a platform for audiences to discover new voices and perspectives in cinema, making it a must-watch for film enthusiasts.",
+    "genres": ["Secondary"],
+    "poster": "https://raw.githubusercontent.com/joebckFeg8/austv/refs/heads/main/posters/sbsworld.jpg",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movies-hz-au.png",
+    "tvgId": "sbsworld.au",
+    "streams": [
+      {
+        "url": "https://i.mjh.nz/.r/sbs-world-movies.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "description": "SBS World Movies",
+        "name": "HD"
+      }
+    ]
+  }
+}
